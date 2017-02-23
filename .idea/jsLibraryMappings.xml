@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/lessons/01-setting-up" libraries="{react-router-tutorial/lessons/01-setting-up/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/02-rendering-a-route" libraries="{react-router-tutorial/lessons/02-rendering-a-route/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/03-navigating-with-link" libraries="{react-router-tutorial/lessons/03-navigating-with-link/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/04-nested-routes" libraries="{react-router-tutorial/lessons/04-nested-routes/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/05-active-links" libraries="{react-router-tutorial/lessons/05-active-links/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/06-params" libraries="{react-router-tutorial/lessons/06-params/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/07-more-nesting" libraries="{react-router-tutorial/lessons/07-more-nesting/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/08-index-routes" libraries="{react-router-tutorial/lessons/08-index-routes/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/09-index-links" libraries="{react-router-tutorial/lessons/09-index-links/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/10-clean-urls" libraries="{react-router-tutorial/lessons/10-clean-urls/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/11-productionish-server" libraries="{react-router-tutorial/lessons/11-productionish-server/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/12-navigating" libraries="{react-router-tutorial/lessons/12-navigating/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/13-server-rendering" libraries="{react-router-tutorial/lessons/13-server-rendering/node_modules}" />
+    <file url="file://$PROJECT_DIR$/lessons/14-whats-next" libraries="{react-router-tutorial/lessons/14-whats-next/node_modules}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>
